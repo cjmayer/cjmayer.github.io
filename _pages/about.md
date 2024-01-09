@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-To be filled in
+Language documentation and revitalization; Micronesian linguistics; Papuan Linguistics; Indigenous knowledge; Community-centered revitalization; Language technology; Morphosemantics; Information Structure; Typology [WIP]
