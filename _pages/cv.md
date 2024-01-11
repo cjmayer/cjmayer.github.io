@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+You can download my resume <a href="/images/cjmayer_resume.pdf" download="filename">here</a>
 
 Education
 ======
@@ -53,13 +55,6 @@ Work experience
 * June - July 2017: LOT Summer School 2017 Administrator
   * Leiden University Centre for Linguistics
   * General administrative contact for attendees of the a linguistics graduate-level summer school in Leiden; Managing registrations, absentees, schedule changes, technical issues and any questions and request from students and instructors during the summer school
-
-* February 2013 - August 2015: Annie's Lunch, Dinner & Drinks Chef
-  * Leiden, The Netherlands
-  * Working lunch and dinner shifts, which includes preparing menu items, dealing with pressure & stress, working
-efficiently, time management, effective communication and multitasking while maintaining a clean and organized
-working environment; managing supplies, including ordering, receiving, storing and inventorizing supplies
-
 
 
 
