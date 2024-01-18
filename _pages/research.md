@@ -8,7 +8,7 @@ redirect_from:
   - /markdown.html
 header:
   overlay_image: /images/test.jpg
-  overlay_filter: 0.3
+#  overlay_filter: 0.3
 ---
 
 WIP.
