@@ -11,11 +11,26 @@ redirect_from:
 
 You can download my resume <a href="/images/Resume_CV_cjmayer.pdf" download="filename">here</a>
 
+WIP.
+
 Education
 ======
 * B.A. in Descriptive Linguistics, Leiden University, 2019; *cum laude*
 * ResM.A. in Descriptive Linguistics, Leiden University 2021; *cum laude*
 * Ph.D in Linguistics, University of Hawaiʻi at Mānoa, 2025 (expected)
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
@@ -101,21 +116,6 @@ retrieving and organizing data, analyzing, and writing a research paper on the r
 
 
 
-Skills
-======
-* **Languages:** Dutch, German (native), English (near-native), French, Spanish (proficient), Hawaiian, Woleaian (conversational)
-* **Professional:** Language documentation (including fieldwork); linguistic description analysis; historical/comparative linguistics; statistics; GIS; presenting
-* **Computer:** Latex; QGIS; Microsoft Suite; PRAAT; FLEx; ELAN; AntConc; WordSmith; RStudio; basic coding knowledge (html; Java; R)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
