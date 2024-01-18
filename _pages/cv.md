@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my resume <a href="/images/cjmayer_resume.pdf" download="filename">here</a>
+You can download my resume <a href="/images/Resume_CV_cjmayer.pdf" download="filename">here</a>
 
 Education
 ======
