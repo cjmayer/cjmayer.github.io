@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-header: /images/test.jpeg
+header: ![alt text]()/images/test.jpeg)
 author_profile: true
 redirect_from:
   - /md/
