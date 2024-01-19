@@ -2,7 +2,7 @@
 title: "Technology for language documentation and revitalization"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2022-02-16-michifworkshop
+#permalink: /talks/2022-02-16-michifworkshop
 venue: "LDTC Workshop series 'Language Documentation and Revitalizing Indigenous Languages"
 date: 2022-02-16
 location: "Prairies to Woodlands ILR Circle Inc. Ottawa, ON (online)"
