@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  image: /images/gargey-fieldwork2.jpg
+  overlay_image: /images/gargey-fieldwork2.jpg
+  overlay_filter: 0.3
 ---
 
 {% if author.googlescholar %}
