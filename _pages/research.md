@@ -7,7 +7,7 @@ redirect_from:
   - /md/
   - /markdown.html
 header:
-  overlay_image: /images/gargey-fieldwork.jpg
+  overlay_image: gargey-fieldwork.jpg
   overlay_filter: 0.3
 ---
 

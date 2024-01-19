@@ -9,6 +9,6 @@ location: "Prairies to Woodlands ILR Circle Inc. Ottawa, ON (online)"
 ---
 
 
-You can see the slides to this presentation <a href="https://docs.google.com/presentation/d/1uHORYMkho8CXkPb2DNfDEEDzkJ3OV82e/edit#slide=id.p1"> here <\a>.
+You can see the slides to this presentation [here](https://docs.google.com/presentation/d/1uHORYMkho8CXkPb2DNfDEEDzkJ3OV82e/edit#slide=id.p1)
 
 A workshop in a series on language documentation and revitalization of (North-American) Indigenous languages. The workshop series was a joint collaboration of the Language Documentation and Training Center at the Department of Linguistics of the University of Hawaiʻi at Mānoa and the Michif group Prairies to Woodlands.
