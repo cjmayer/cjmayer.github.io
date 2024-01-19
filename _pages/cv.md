@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  image: /images/gargey-fieldwork3.jpg
 ---
 
 {% include base_path %}

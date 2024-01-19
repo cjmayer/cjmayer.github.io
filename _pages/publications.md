@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  image: /images/gargey-fieldwork2.jpg
 ---
 
 {% if author.googlescholar %}
