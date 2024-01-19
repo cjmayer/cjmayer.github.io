@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: /images/gargey-fieldwork2.jpg
+  overlay_image: gargey-fieldwork2.jpg
   overlay_filter: 0.3
 ---
 

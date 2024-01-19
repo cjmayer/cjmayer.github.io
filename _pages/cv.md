@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 header:
-  image: /images/gargey-fieldwork3.jpg
+  overlay_image: /images/gargey-fieldwork3.jpg
+  overlay_filter: 0.3
 ---
 
 {% include base_path %}
