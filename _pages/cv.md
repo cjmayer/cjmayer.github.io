@@ -20,7 +20,7 @@ Education
 ======
 * B.A. in Descriptive Linguistics, Leiden University, 2019; *cum laude*
 * ResM.A. in Descriptive Linguistics, Leiden University 2021; *cum laude*
-* Ph.D in Linguistics, University of Hawaiʻi at Mānoa, 2025 (expected)
+* Ph.D in Linguistics, University of Hawaiʻi at Mānoa, 2025
 
 
 Publications
