@@ -38,11 +38,11 @@ Talks
 Work experience
 ======
 
-* Fall 2023 - Present: Online Learning Coordinator
+* Fall 2023 - Spring 2025 : Online Learning Coordinator
   * Department of Linguistics, University of Hawaiʻi at Mānoa
   * Coordinator of the self-paced asynchronous courses (LING102UM; LING105UM; LING150BUM)
 
-* Fall 2023 - Present: Austronesian Circle organizer
+* Fall 2023 - Spring 2025: Austronesian Circle organizer
   * Department of Linguistics, University of Hawaiʻi at Mānoa
   * Organizer of bi-weekly Austronesian-focused meetings
 
