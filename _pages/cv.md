@@ -12,7 +12,7 @@ header:
 
 {% include base_path %}
 
-You can download my CV <a href="/images/Resume_CV_cjmayer.pdf" download="Resume_CV_cjmayer">here</a>
+You can download my CV <a href="/images/CV_cjmayer-5.pdf" download="Resume_CV_cjmayer">here</a>
 
 WIP.
 
